@@ -2,12 +2,10 @@ Login-WinForm-C-KeyAuth-Furthermore, I am proud to share that this login WinForm
 
 The open-source nature of this project also allows for collaboration and contribution from the community. Developers can contribute their own code or improvements to the project, making it more versatile, reliable, and secure. By contributing to the project, they can also help other developers and users to access a highly secure and user-friendly login system.
 
-In conclusion, this open-source login WinForm with API for key authentication provides a highly customizable and secure solution for login systems. With its open-source nature, it offers an opportunity for developers and programmers to collaborate and contribute to its growth, making it a reliable and robust solution for various applications, platforms, and websites.
+By default it contains my Application name,code So you can change it to make it yours 🙂
 
 
-
-
-#KeyAuth
+#KeyAuth( https://keyauth.cc/ )
 
 Creating a new project: The first step is to create a new project in Keyauth by logging in to your account and clicking on the "New Project" button. This will prompt you to enter a project name and description.
 
